@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrentWeather</string>
+    <string name="check">Please check Internet</string>
+</resources>
